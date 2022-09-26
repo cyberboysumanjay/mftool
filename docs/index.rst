@@ -48,7 +48,7 @@ exception.
 
 .. warning::
 
-    You need to have a working internet connection while using this library. It will raise URLErorr 
+    You need to have a working internet connection while using this library. It will raise URLError 
     in case there is no internet connectivity. Hence please handle this scenario in your code.
 
 	
